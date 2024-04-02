@@ -1,0 +1,13 @@
+.footer-icon {
+    /* color: #918E9B; */
+    height: 25px;
+    width: 25px;
+    padding: 0.8em;
+}
+
+.footer {
+    background-color: #D5D4D8;
+    padding: 1em;
+    text-align: center;
+    margin-top: -15px;
+}
